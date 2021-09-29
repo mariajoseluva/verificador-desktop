@@ -1,0 +1,99 @@
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sebas\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\maria\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\maria\OneDrive\Documentos\UNISON\7mo. Semestre\ISW3\verificador_precios_propio\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
